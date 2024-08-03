@@ -1,0 +1,41 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+.idea/
+.android/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+.gradle
+flutter_*.iml
+
+
+# VS Code related
+.vscode/
+.history/
+.env
+
+# macOS related
+.DS_Store
+
+# Linux related
+linux/
+app/build/
+c++_deps/
+
+# Windows related
+windows/
+app/build/
+c++_deps/
+
+# Other
+*.log
+*.tmp
+*.temp
+*.swp
+*.lock
+*.lock.*
+*.diff
+*~
