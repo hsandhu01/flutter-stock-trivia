@@ -1,6 +1,6 @@
 # Finance Trivia App
 
-Finance Trivia is a Flutter application designed to test your knowledge of finance-related topics. The app presents a series of trivia questions with multiple-choice answers, along with relevant images.
+Finance Trivia is a Flutter application designed to test your knowledge of finance-related topics. The app presents a series of trivia questions with multiple-choice answers, along with relevant images. This is my first try at using flutter.
 
 ## Features
 
